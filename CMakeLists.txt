@@ -14,4 +14,5 @@ target_include_directories(${PROJECT_NAME} PRIVATE src/include)
 
 file(COPY ${CMAKE_CURRENT_SOURCE_DIR}/resources/text.txt
      ${CMAKE_CURRENT_SOURCE_DIR}/resources/key.txt
+     ${CMAKE_CURRENT_SOURCE_DIR}/resources/des.txt
      DESTINATION ${CMAKE_CURRENT_BINARY_DIR})
