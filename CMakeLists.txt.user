@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.11.0, 2020-04-29T09:22:15. -->
+<!-- Written by QtCreator 4.11.0, 2020-04-29T10:12:01. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -913,7 +913,7 @@
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory"></value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/zirea/Documents/gitporojects/build--EncryptionAlgorithmComparison-Desktop_Qt_5_14_1_MSVC2017_32bit-Release</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default"></value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
