@@ -2,7 +2,7 @@ Processor : Intel(R) Core(TM) i5-3330 CPU @ 3.00GHz, 3001 МГц
 
 Result for MinGW 32 bit: 
 
-Test for 100000 symbols
+Test for 100000 symbols\n
 Duration in microseconds TwoFish is 22411
 Duration in microseconds DES is 64389&nbsp;
 Duration in microseconds DES3 is 190340&nbsp;
