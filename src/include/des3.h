@@ -1,3 +1,5 @@
+/*Source https://github.com/fffaraz/cppDES*/
+
 #ifndef DES3_H
 #define DES3_H
 
